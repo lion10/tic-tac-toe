@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(65,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(126,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(126,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(127,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(127,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(128,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(128,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(129,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(129,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(136,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(136,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(191,7): warning C4101: 'draw': unreferenced local variable
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(290,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(290,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(291,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(291,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(299,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(299,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(300,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(300,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\source\repos\Tic Tac Toe\Tic Tac Toe\Source.cpp(330,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tic Tac Toe.vcxproj -> C:\Users\Omar\source\repos\Tic Tac Toe\Debug\Tic Tac Toe.exe
